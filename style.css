@@ -1,0 +1,19 @@
+
+.headings{
+    text-align: center; align-items: center;
+    text-decoration: underline rgb(74, 72, 83);
+   text-transform: uppercase;
+   
+    background-color: antiquewhite;
+  
+}
+.allData{
+  margin-left: 60px;
+
+ margin: 30px;
+ padding: 10px;
+ background-color: azure;
+}
+.dd{
+   color: brown;
+}
